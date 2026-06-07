@@ -27,19 +27,19 @@ I am currently an Applied Research Intern at ByteDance, where I work on multimod
 <span class='anchor' id='news'></span>
 
 # News
-- *2026.02*: I joined ByteDance <img class="inline-logo bytedance-logo" src="images/ByteDance_logo_English.svg" alt="ByteDance logo"> as a Multimodal Large Model Algorithm Intern.
+- *2026.02*: I joined ByteDance <img class="inline-logo bytedance-logo" src="images/ByteDance_logo_English.svg" alt="ByteDance logo"> as an Applied Research Intern, working on MLLMs.
 - *2025.10*: I joined Meituan <img class="inline-logo meituan-logo" src="images/meituan.png" alt="Meituan logo"> Intelligent Creation Team as a Research Intern.
 
 <span class='anchor' id='publications'></span>
 
 # Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Manuscript</div><img src='images/1.png' alt="Unified multimodal image inpainting" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/1.png' alt="Unified multimodal image inpainting" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Seamless Sketch-guided Image Inpainting via Flow-based Background Trajectory Alignment**
 
-Lintao Zhang*, <strong>Runfeng Bao</strong>*, Quan Zhou, Xichen Ye, Xiangcheng Du, Yingbin Zheng, WEIZHONG ZHANG, Peizhu Gong, Cheng Jin
+Lintao Zhang<sup>*</sup>, <strong>Runfeng Bao</strong><sup>*</sup>, Quan Zhou, Xichen Ye, Xiangcheng Du, Yingbin Zheng, WEIZHONG ZHANG, Peizhu Gong, Cheng Jin
 
 - Tackles the tension between structural controllability and visual consistency in sketch-guided image inpainting, where complex scenes often suffer from background drift and boundary discontinuities.
 - Builds a unified text-sketch-mask inpainting framework with Region-Aware Sketch Control (RASC) for decoupled foreground/background guidance, and introduces FBTA/FBTA-fast to explicitly align background latent trajectories during diffusion sampling.
@@ -47,12 +47,12 @@ Lintao Zhang*, <strong>Runfeng Bao</strong>*, Quan Zhou, Xichen Ye, Xiangcheng D
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ongoing Work</div><img src='images/2.png' alt="MLLM-guided video inpainting" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/2.png' alt="MLLM-guided video inpainting" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **SyncPainter: Caption-guided Video Inpainting with Multimodal Semantic Alignment**
 
-**Runfeng Bao**,Yifan Wang,Chengmin Gao
+<!-- **Runfeng Bao**,Yifan Wang,Chengmin Gao -->
 
 - Studies the logical distortion problem of current state-of-the-art video inpainting models under complex occlusion, and explores an automated restoration paradigm guided by MLLMs.
 - Develops Mask-Aware Dual-Path Attention (MAAF), which decouples generation and reference streams for precise semantic-background alignment, together with latent-space temporal propagation for flow-free feature transfer and flicker reduction.
