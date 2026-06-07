@@ -17,18 +17,18 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a Master's student in Artificial Intelligence at Fudan University. Prior to this, I received my bachelor's degree in Data Science and Big Data Technology from Zhejiang University of Technology.
+I am currently a second-year Master's student at the College of Computer Science and Artificial Intelligence, Fudan University.
 
-My research interests lie in multimodal large models, controllable image/video generation, and image/video restoration. I am particularly interested in building generation systems that preserve structural control, semantic consistency, and temporal stability in complex visual scenes.
+My research interests lie in **Multi-modal large models(MLLM)** and **Controllable image/video generation**.
 
-I am currently a Multimodal Large Model Algorithm Intern at ByteDance, where I work on multimodal generation and restoration problems. Before that, I was a Multimodal Algorithm Intern at Meituan.
+I am currently an Applied Research Intern at ByteDance, where I work on multimodal embedding models and post-training of multimodal large models.
+
 
 <span class='anchor' id='news'></span>
 
 # News
-- *2026.02*: I joined ByteDance as a Multimodal Large Model Algorithm Intern.
-- *2025.10*: I joined Meituan as a Multimodal Algorithm Intern.
-- *2024.09*: I started my M.S. in Artificial Intelligence at Fudan University.
+- *2026.02*: I joined ByteDance <img class="inline-logo bytedance-logo" src="images/ByteDance_logo_English.svg" alt="ByteDance logo"> as a Multimodal Large Model Algorithm Intern.
+- *2025.10*: I joined Meituan <img class="inline-logo meituan-logo" src="images/meituan.png" alt="Meituan logo"> Intelligent Creation Team as a Research Intern.
 
 <span class='anchor' id='publications'></span>
 
@@ -37,9 +37,9 @@ I am currently a Multimodal Large Model Algorithm Intern at ByteDance, where I w
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Manuscript</div><img src='images/1.png' alt="Unified multimodal image inpainting" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Unified Multimodal Image Inpainting with Region-Aware Sketch Control**
+**Seamless Sketch-guided Image Inpainting via Flow-based Background Trajectory Alignment**
 
-**Runfeng Bao**
+Lintao Zhang*, **Runfeng Bao***, Quan Zhou, Xichen Ye, Xiangcheng Du, Yingbin Zheng, WEIZHONG ZHANG, Peizhu Gong, Cheng Jin
 
 - Tackles the tension between structural controllability and visual consistency in sketch-guided image inpainting, where complex scenes often suffer from background drift and boundary discontinuities.
 - Builds a unified text-sketch-mask inpainting framework with Region-Aware Sketch Control (RASC) for decoupled foreground/background guidance, and introduces FBTA/FBTA-fast to explicitly align background latent trajectories during diffusion sampling.
@@ -50,9 +50,9 @@ I am currently a Multimodal Large Model Algorithm Intern at ByteDance, where I w
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Ongoing Work</div><img src='images/2.png' alt="MLLM-guided video inpainting" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**MLLM-Guided Video Inpainting under Complex Occlusion**
+**SyncPainter: Caption-guided Video Inpainting with Multimodal Semantic Alignment**
 
-**Runfeng Bao**
+**Runfeng Bao**,Yifan Wang,Chengmin Gao
 
 - Studies the logical distortion problem of current state-of-the-art video inpainting models under complex occlusion, and explores an automated restoration paradigm guided by MLLMs.
 - Develops Mask-Aware Dual-Path Attention (MAAF), which decouples generation and reference streams for precise semantic-background alignment, together with latent-space temporal propagation for flow-free feature transfer and flicker reduction.
@@ -69,5 +69,7 @@ I am currently a Multimodal Large Model Algorithm Intern at ByteDance, where I w
 <span class='anchor' id='internships'></span>
 
 # Internships
-- *2026.02 - Present*, **ByteDance**, Multimodal Large Model Algorithm Intern.
-- *2025.10 - 2026.01*, **Meituan**, Multimodal Algorithm Intern.
+- **ByteDance** <img class="internship-logo bytedance-logo" src="images/ByteDance_logo_English.svg" alt="ByteDance logo"><br>
+  *2026.02 - Present*, Applied Research Intern, focusing on multimodal embedding models and post-training of multimodal large models.
+- **Meituan** <img class="internship-logo meituan-logo" src="images/meituan.png" alt="Meituan logo"><br>
+  *2025.10 - 2026.01*, Research Intern, Intelligent Creation Team, focusing on multimodal algorithms.

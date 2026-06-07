@@ -107,3 +107,29 @@ h1:before, .anchor:before {
     background-color: #00369f;
     font-size: .8em;
 }
+
+.inline-logo,
+.internship-logo {
+    display: inline-block;
+    width: auto;
+    vertical-align: middle;
+    object-fit: contain;
+}
+
+.inline-logo {
+    max-height: 1.1em;
+    margin: 0 .15em;
+}
+
+.internship-logo {
+    max-height: 1.25em;
+    margin-left: .25em;
+}
+
+.bytedance-logo {
+    max-width: 7.5em;
+}
+
+.meituan-logo {
+    max-width: 5.5em;
+}
