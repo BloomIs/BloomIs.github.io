@@ -39,7 +39,7 @@ I am currently an Applied Research Intern at ByteDance, where I work on multimod
 
 **Seamless Sketch-guided Image Inpainting via Flow-based Background Trajectory Alignment**
 
-Lintao Zhang*, **Runfeng Bao***, Quan Zhou, Xichen Ye, Xiangcheng Du, Yingbin Zheng, WEIZHONG ZHANG, Peizhu Gong, Cheng Jin
+Lintao Zhang*, <strong>Runfeng Bao</strong>*, Quan Zhou, Xichen Ye, Xiangcheng Du, Yingbin Zheng, WEIZHONG ZHANG, Peizhu Gong, Cheng Jin
 
 - Tackles the tension between structural controllability and visual consistency in sketch-guided image inpainting, where complex scenes often suffer from background drift and boundary discontinuities.
 - Builds a unified text-sketch-mask inpainting framework with Region-Aware Sketch Control (RASC) for decoupled foreground/background guidance, and introduces FBTA/FBTA-fast to explicitly align background latent trajectories during diffusion sampling.
