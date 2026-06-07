@@ -108,28 +108,26 @@ h1:before, .anchor:before {
     font-size: .8em;
 }
 
-.inline-logo,
-.internship-logo {
-    display: inline-block;
-    width: auto;
-    vertical-align: middle;
-    object-fit: contain;
+.page__content img.inline-logo,
+.page__content img.internship-logo {
+    display: inline-block !important;
+    width: auto !important;
+    min-width: 0 !important;
+    max-width: 8.5em !important;
+    height: 1.15em !important;
+    max-height: 1.15em !important;
+    margin: 0 .2em !important;
+    vertical-align: -.18em !important;
+    object-fit: contain !important;
+    box-shadow: none !important;
 }
 
-.inline-logo {
-    max-height: 1.1em;
-    margin: 0 .15em;
+.page__content img.internship-logo {
+    height: 1.3em !important;
+    max-height: 1.3em !important;
 }
 
-.internship-logo {
-    max-height: 1.25em;
-    margin-left: .25em;
-}
-
-.bytedance-logo {
-    max-width: 7.5em;
-}
-
-.meituan-logo {
-    max-width: 5.5em;
+.page__content img.meituan-logo {
+    max-width: 1.35em !important;
+    border-radius: .2em;
 }
