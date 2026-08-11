@@ -39,8 +39,6 @@ I am currently an Applied Research Intern at ByteDance, where I work on multimod
 
 **[FUSE: Flow-aligned Universal Sketch Editor for DiT-based Generative Models](https://bloomis.github.io/Seamless/)**
 
-Lintao Zhang<sup>*</sup>, <strong>Runfeng Bao</strong><sup>*</sup>, Quan Zhou, Xichen Ye, Xiangcheng Du, Yingbin Zheng, WEIZHONG ZHANG, Peizhu Gong, Cheng Jin
-
 - Introduces a flow-aligned sketch-guided inpainting framework that improves background consistency and reduces boundary artifacts by aligning background latent trajectories during sampling.
 - Uses Region-aware Sketch Control (RASC) to decouple sketch guidance for edited and background regions, improving sketch faithfulness and practical controllability across Flux and Z-Image backbones.
 
