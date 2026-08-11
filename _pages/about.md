@@ -34,15 +34,15 @@ I am currently an Applied Research Intern at ByteDance, where I work on multimod
 
 # Publications
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/1.png' alt="Unified multimodal image inpainting" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/1.png' alt="FUSE qualitative comparison" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Seamless Sketch-guided Image Inpainting via Flow-based Background Trajectory Alignment**
+**[FUSE: Flow-aligned Universal Sketch Editor for DiT-based Generative Models](https://bloomis.github.io/Seamless/)**
 
 Lintao Zhang<sup>*</sup>, <strong>Runfeng Bao</strong><sup>*</sup>, Quan Zhou, Xichen Ye, Xiangcheng Du, Yingbin Zheng, WEIZHONG ZHANG, Peizhu Gong, Cheng Jin
 
-- Tackles the tension between structural controllability and visual consistency in sketch-guided image inpainting, where complex scenes often suffer from background drift and boundary discontinuities.
-- Builds a unified text-sketch-mask inpainting framework with Region-Aware Sketch Control (RASC) for decoupled foreground/background guidance, and introduces FBTA/FBTA-fast to explicitly align background latent trajectories during diffusion sampling.
+- Introduces a flow-aligned sketch-guided inpainting framework that improves background consistency and reduces boundary artifacts by aligning background latent trajectories during sampling.
+- Uses Region-aware Sketch Control (RASC) to decouple sketch guidance for edited and background regions, improving sketch faithfulness and practical controllability across Flux and Z-Image backbones.
 
 </div>
 </div>
