@@ -48,7 +48,7 @@ I am currently an Applied Research Intern at ByteDance, where I work on multimod
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/2.png' alt="MLLM-guided video inpainting" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**SyncPainter: Caption-guided Video Inpainting with Multimodal Semantic Alignment**
+**[SyncPainter: Caption-guided Video Inpainting with Multimodal Semantic Alignment](https://bloomis.github.io/SyncPainter/)**
 
 <!-- **Runfeng Bao**,Yifan Wang,Chengmin Gao -->
 
