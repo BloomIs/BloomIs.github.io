@@ -37,7 +37,7 @@ I am currently an Applied Research Intern at ByteDance, where I work on multimod
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/1.png' alt="FUSE qualitative comparison" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[FUSE: Flow-aligned Universal Sketch Editor for DiT-based Generative Models](https://bloomis.github.io/Seamless/)**
+<strong><a href="https://bloomis.github.io/Seamless/" data-goatcounter-click="homepage-click-fuse" data-goatcounter-title="Homepage to FUSE" data-goatcounter-no-session="1">FUSE: Flow-aligned Universal Sketch Editor for DiT-based Generative Models</a></strong>
 
 - Introduces a flow-aligned sketch-guided inpainting framework that improves background consistency and reduces boundary artifacts by aligning background latent trajectories during sampling.
 - Uses Region-aware Sketch Control (RASC) to decouple sketch guidance for edited and background regions, improving sketch faithfulness and practical controllability across Flux and Z-Image backbones.
@@ -48,7 +48,7 @@ I am currently an Applied Research Intern at ByteDance, where I work on multimod
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Review</div><img src='images/2.png' alt="MLLM-guided video inpainting" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**[SyncPainter: Caption-guided Video Inpainting with Multimodal Semantic Alignment](https://bloomis.github.io/SyncPainter/)**
+<strong><a href="https://bloomis.github.io/SyncPainter/" data-goatcounter-click="homepage-click-syncpainter" data-goatcounter-title="Homepage to SyncPainter" data-goatcounter-no-session="1">SyncPainter: Caption-guided Video Inpainting with Multimodal Semantic Alignment</a></strong>
 
 <!-- **Runfeng Bao**,Yifan Wang,Chengmin Gao -->
 
