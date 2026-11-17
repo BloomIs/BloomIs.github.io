@@ -21,13 +21,13 @@ I am currently a second-year Master's student at the College of Computer Science
 
 My research interests lie in **Multi-modal large models(MLLM)** and **Controllable image/video generation**.
 
-I am currently interning at Tencent's WeChat Department, where I work on post-training of the WeSecLM base model.
+I am currently interning at Tencent's WeChat Department, where I work on post-training of the WeSecLM foundation model.
 
 
 <span class='anchor' id='news'></span>
 
 # News
-- *2026.07*: I joined Tencent's WeChat Department as an Intern, working on post-training of the WeSecLM base model.
+- *2026.07*: I joined Tencent's WeChat Department as an Intern, working on post-training of the WeSecLM foundation model.
 - *2026.02*: I joined ByteDance <img class="inline-logo bytedance-logo" src="images/ByteDance_logo_English.svg" alt="ByteDance logo"> as an Applied Research Intern, working on MLLMs.
 - *2025.10*: I joined Meituan <img class="inline-logo meituan-logo" src="images/meituan.png" alt="Meituan logo"> Intelligent Creation Team as a Research Intern.
 
@@ -69,7 +69,7 @@ I am currently interning at Tencent's WeChat Department, where I work on post-tr
 
 # Internships
 - **Tencent**<br>
-  *2026.07 - Present*, Intern, WeChat Department, focusing on post-training of the WeSecLM base model.
+  *2026.07 - Present*, Intern, WeChat Department, focusing on post-training of the WeSecLM foundation model.
 - **ByteDance** <img class="internship-logo bytedance-logo" src="images/ByteDance_logo_English.svg" alt="ByteDance logo"><br>
   *2026.02 - Present*, Applied Research Intern, focusing on multimodal embedding models and post-training of multimodal large models.
 - **Meituan** <img class="internship-logo meituan-logo" src="images/meituan.png" alt="Meituan logo"><br>
